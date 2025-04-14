@@ -42,7 +42,7 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-username/afrodita-landing.git
+   git clone https://github.com/kirill-io/afrodita-project.git
 
 2. Перейдите в директорию проекта:
    ```bash
